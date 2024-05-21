@@ -1,3 +1,6 @@
-#!/usr/bin/env python3
-def my_function():
-   print("hello_world")
+'''#!/usr/bin/env python3'''
+def greet():
+    """
+    Print a greeting message.
+    """
+    print("hello_world")
