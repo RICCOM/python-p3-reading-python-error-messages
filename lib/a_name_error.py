@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-
-print(hello_world)
+def my_function():
+   print(hello_world)
